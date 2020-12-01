@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "WorldGreetings",
+        "repositoryURL": "https://github.com/piterwilson/WorldGreetings-spm",
+        "state": {
+          "branch": null,
+          "revision": "0e84f9e4524481bd8c847a5e5bbede2d598acead",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
