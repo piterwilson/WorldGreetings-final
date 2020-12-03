@@ -27,5 +27,10 @@ struct ContentView_Previews: PreviewProvider {
             .previewLayout(PreviewLayout.sizeThatFits)
             .padding()
             .previewDisplayName("Spanish")
+        
+        ContentView(worldGreetings: WorldGreetings(languageCode: "nl")!)
+            .previewLayout(PreviewLayout.sizeThatFits)
+            .padding()
+            .previewDisplayName("Dutch")
     }
 }
